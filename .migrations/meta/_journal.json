@@ -15,6 +15,13 @@
       "when": 1725975083610,
       "tag": "0001_chubby_scalphunter",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1725976112652,
+      "tag": "0002_powerful_gorgon",
+      "breakpoints": true
     }
   ]
 }
